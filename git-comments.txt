@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Message" - for set message
+git commit -a -m "Message" - for add all file and set message
