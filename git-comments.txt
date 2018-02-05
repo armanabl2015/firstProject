@@ -1,3 +1,4 @@
+git init -> for start project in git
 git status
 git add .
 git commit -m "Message" - for set message
