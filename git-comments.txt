@@ -3,3 +3,8 @@ git status
 git add .
 git commit -m "Message" - for set message
 git commit -a -m "Message" - for add all file and set message
+
+
+#remove
+git rm --cached js/main.js
+git rm --cached -r . -> remova all cached
