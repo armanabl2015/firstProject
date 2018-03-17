@@ -1,3 +1,4 @@
 node_madules/
 *.txt
 !b.txt
+js/
